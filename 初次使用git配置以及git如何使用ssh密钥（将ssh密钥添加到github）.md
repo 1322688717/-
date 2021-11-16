@@ -54,4 +54,8 @@ Enter file in which to save the key (/home/you/.ssh/id_rsa):
 
 ### 四、整体流程
 
-![image-20211115104933770](C:\Users\zcq\AppData\Roaming\Typora\typora-user-images\image-20211115104933770.png)
+![img](https://mmbiz.qpic.cn/mmbiz_png/XyoYRicva18z6GUQqvY6M7QZibC02qX4U7Rquy4T2G0ick5eqc7zsz2NcKboGicTvKichyz60WXUvicWQHFDBIn3BJ9w/0?wx_fmt=png)
+
+### 五、提交流程图
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/XyoYRicva18z6GUQqvY6M7QZibC02qX4U71rznuWvUqtIJG3H88GYgNuuXs54365K92LdmKZ1srXA6Ow1via5UU5g/0?wx_fmt=png)
